@@ -73,3 +73,5 @@ After comparing these tools:
 3. **AWS CodePipeline** is a strong choice for teams that are already heavily using AWS and want a pipeline that fits naturally into that environment.
 
 > The better choice depends on the project requirements, the team’s experience, and the existing infrastructure.
+
+ITI_Intake46
